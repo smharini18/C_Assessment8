@@ -5,6 +5,7 @@ int num=2,index,isprime,total=0;
 while(num<10)
 {
 index=2;
+  
 isprime=1;
 while(index<num)
 {
